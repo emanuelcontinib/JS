@@ -1,9 +1,0 @@
-{
-  "presets": [
-    "@babel/preset-env"
-    //entende qual é o ambiente de trabalho 'browse, node, react natibe, etc... e aí converte pra que entendam'
-  ],
-  "plugins": [
-      "@babel/plugin-proposal-object-rest-spread"
-    ]
-  }
